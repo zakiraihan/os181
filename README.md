@@ -10,3 +10,5 @@ ZCZC W03 sudah coba demo W03
 ZCZC W04 sudah coba demo W04
 
 ZCZC W05 sudah coba demo W05
+
+ZCZC W06 sudah coba demo W06
